@@ -15,7 +15,7 @@ fun main() {
     var name: String = "Adam"
     name = "Jake"
 
-    /*Read data from user*/
+    /* Read data from user */
     val name_var = readLine()
 
 
